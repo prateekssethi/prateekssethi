@@ -3,7 +3,7 @@
 📊 **Data Visualizer & BI Developer**  
 🎯 Passionate about transforming data into actionable insights
 
-I design interactive and user-friendly dashboards using **Power BI**, with a focus on performance, clarity, and data storytelling. I also bring UI/UX design skills to create dashboards that are not just functional but intuitive.
+I design & develop interactive and user-friendly dashboards, with a focus on performance, clarity, and data storytelling. I also bring UI/UX design skills to create dashboards that are not just functional but intuitive.
 
 ## 💼 Core Skills
 - **Microsoft Fabric | Power BI | DAX | Power Query | SQL | Excel**
