@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Prateek Sethi
 
-📊 **Data Visualization Designer & Power BI Developer**  
+📊 **Data Visualizer & BI Developer**  
 🎯 Passionate about transforming data into actionable insights
 
 I design interactive and user-friendly dashboards using **Power BI**, with a focus on performance, clarity, and data storytelling. I also bring UI/UX design skills to create dashboards that are not just functional but intuitive.
