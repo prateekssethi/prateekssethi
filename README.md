@@ -3,7 +3,7 @@
 📊 **Data Visualizer & BI Developer**  
 🎯 Passionate about transforming data into actionable insights
 
-I design & develop interactive and user-friendly dashboards, with a focus on performance, clarity, and data storytelling. I also bring UI/UX design skills to create dashboards that are not just functional but intuitive.
+I design and develop interactive, user-friendly dashboards that prioritize performance, clarity, and impactful data storytelling. With a strong foundation in UI/UX design, I ensure that every dashboard is not only functional but also intuitive and easy to navigate.
 
 ## 💼 Core Skills
 - **Power BI | Copilot Integration | DAX | Power Query | SQL | Excel**
